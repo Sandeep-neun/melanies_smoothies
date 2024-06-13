@@ -7,7 +7,7 @@
   ##- streamlit=
 
 
-requirements.txt
+#requirements.txt
 snowflake-connector-python
 snowflake-snowpark-python
-streamlit==1.43.1
+streamlit==1.31.1
